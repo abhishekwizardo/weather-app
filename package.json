@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "weather app ",
+  "homepage": "https://github.com/abhishekwizardo/weather-app#readme",
+  "bugs": {
+    "url": "https://github.com/abhishekwizardo/weather-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekwizardo/weather-app.git"
+  },
+  "license": "ISC",
+  "author": "Abhishek Das",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
